@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Russo+One&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body
+{
+    font-family: Raleway, sans-serif;
+    font-weight: 300;
+    color: black;
+}
+
+/* headings and logo */
+
+h1
+{
+    font-family: Russo One, sans-serif;
+    color: #85E309;
+    letter-spacing: 4px;
+}
+
+#logo
+{
+    font-size: 300%;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px
+}
+
+h2, h3
+{
+    font-family: Raleway;
+    color: white;
+    letter-spacing: 2px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.slam-events
+{
+    text-align: center;
+}
+.tournaments-header
+{
+    text-transform: uppercase;
+    color: black;
+}
+
+
