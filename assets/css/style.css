@@ -37,6 +37,18 @@ h2, h3
     font-weight: 500;
 }
 
+
+#menu
+{
+    float: right;
+    color: #85E309;
+}
+
+#menu li
+{
+    list-style: none;
+}
+
 .slam-events
 {
     text-align: center;
@@ -48,3 +60,8 @@ h2, h3
 }
 
 
+.each-open
+{
+    color: #034e61;
+    font-weight: 1000;
+}
