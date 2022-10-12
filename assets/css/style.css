@@ -16,15 +16,12 @@ body
 
 /* headings and logo */
 
-h1
+
+#logo
 {
     font-family: Russo One, sans-serif;
     color: #85E309;
     letter-spacing: 4px;
-}
-
-#logo
-{
     font-size: 300%;
     float: left;
     margin-left: 30px;
