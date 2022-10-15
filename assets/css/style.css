@@ -124,7 +124,7 @@ h2, h3
 {
     text-align: center;
     margin: 35px 0;
-    font-size: 140%;
+    font-size: 130%;
     color: black;
 }
 
@@ -136,16 +136,40 @@ h2, h3
     margin: 0 auto;
 }
 
+.tournaments-header
+{
+    font-size: 190%;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+}
 
+#tournaments-list
+{
+    font-size: 130%;
+    color: black;
+    list-style: none;
+}
+
+.link
+{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: black;
+    font-size: 110%;    
+    text-decoration: underline;
+    margin: 15px;
+}
+
+.link:hover
+{
+    color: #08bf63
+}
 
 .slam-events
 {
     text-align: center;
-}
-.tournaments-header
-{
-    text-transform: uppercase;
-    color: black;
 }
 
 
