@@ -245,6 +245,20 @@ footer
     line-height: 50px;
 }
 
+#tennis-image-one
+{
+    width: 500px;
+    height: 350px;
+    overflow: hidden;
+    float: right;
+    margin-right: 50px;
+}
+
+.intro
+{
+    font-size: 120%;
+}
+
 /*insert details for image styling*/
 
 #container-details-two
@@ -257,6 +271,9 @@ footer
 
 .more-details
 {
+    width: 100%;
+    clear: both;
+    margin: 0 auto;
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -271,6 +288,16 @@ h5
     padding-bottom: 20px;
 }
 
+
+.more-details a
+{
+    font-size: 110%;
+}
+
+.more-details a:hover
+{
+    color: #85E309;
+}
 
 
 /* add a zoom hover on the players boxes */
