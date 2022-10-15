@@ -20,7 +20,7 @@ body
 {
     background-color: #070566;
     overflow: hidden;
-    height: 50%;
+    height: 100px;
 }
 
 
@@ -44,7 +44,7 @@ h2, h3
     font-weight: 500;
 }
 
-/* navigation link */
+/* navigation links */
 
 #menu
 {
@@ -78,6 +78,64 @@ h2, h3
 {
     border-bottom: 2px solid #85E309;
 }
+
+/* hero image */
+
+
+#hero-outer
+{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+
+#hero-image{
+    height: 600px;
+    width: 100%;
+    background: url('//assets/images/hero-image.jpg') no-repeat center-center;
+    background-size: cover;
+}
+
+#cover-text
+{
+    font-size: 200%;
+    font-family: Raleway, sans-serif;
+    letter-spacing: 4px;
+    color: #fff;
+    text-align: center;
+
+    width: 500px;
+    height: 200px;
+
+    top: 50%;
+    left: 50%;
+    position: absolute;
+}
+
+#about
+{
+    background-color: #d9f3fa;
+    padding: 80px;
+}
+
+#about p
+{
+    text-align: center;
+    margin: 35px 0;
+    font-size: 140%;
+    color: black;
+}
+
+.break-line
+{
+    width: 95%;
+    height: 1px;
+    background-color: black;
+    margin: 0 auto;
+}
+
 
 
 .slam-events
