@@ -226,3 +226,31 @@ footer
     padding: 22px;
     border-style: solid;
 }
+
+#container-details-one
+{
+    padding-top: 60px;
+    float: left;
+    margin-left: 40px;
+    line-height: 50px;
+}
+
+/*insert details for image styling*/
+
+#container-details-two
+{
+    padding-top: 60px;
+    float: right;
+    margin-right: 40px;
+    line-height: 50px;
+}
+
+.more-details
+{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 55px;
+    padding-left: 55px;
+}
+
