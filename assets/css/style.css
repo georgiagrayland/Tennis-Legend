@@ -167,6 +167,44 @@ h2, h3
     color: #08bf63
 }
 
+/* footer*/
+
+footer 
+{
+    height: 150px;
+    background-color: #070566;
+}
+
+.social-networks
+{
+    text-align: center;
+}
+
+
+.social-networks > li
+{
+    display: inline;
+}
+
+.social-networks i
+{
+    font-size: 220%;
+    color: #85E309;
+    margin: 1%;
+    padding: 2%;
+}
+
+.social-networks i:hover
+{
+    color: white;
+}
+
+.mention
+{
+    font-size: 110%;
+    color: #fff;
+}
+
 .slam-events
 {
     text-align: center;
