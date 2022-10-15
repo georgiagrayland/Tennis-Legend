@@ -90,29 +90,38 @@ h2, h3
     position: relative;
 }
 
+.hero-image
+{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
 
+/*
 #hero-image{
     height: 600px;
     width: 100%;
     background: url('//assets/images/hero-image.jpg') no-repeat center-center;
     background-size: cover;
 }
+*/
 
 #cover-text
 {
-    font-size: 200%;
-    font-family: Raleway, sans-serif;
-    letter-spacing: 4px;
+    margin: auto;
+    background-color: #eb3f5f;
+    opacity: 0.5;
     color: #fff;
-    text-align: center;
-
-    width: 500px;
-    height: 200px;
-
-    top: 50%;
-    left: 50%;
+    font-family: Raleway, sans-serif;
     position: absolute;
-}
+    text-align: center;
+    width: 90%;
+    top: 280px;
+    letter-spacing: 4px;
+    font-size: 170%;
+    font-weight: bold;
+    text-align: center;
+    }
 
 #about
 {
@@ -131,9 +140,10 @@ h2, h3
 .break-line
 {
     width: 95%;
-    height: 1px;
+    height: 1.5px;
     background-color: black;
     margin: 0 auto;
+    border-radius: 5px;
 }
 
 .tournaments-header
@@ -217,14 +227,14 @@ footer
     color: #034e61;
 }
 
-.each-open
+#each-open
 {
     background-color: #a2c4c9;
     width: 100%;
     height: 44px;
     margin: auto;
     padding: 22px;
-    border-style: solid;
+    border-style: 1px solid black;
 }
 
 #container-details-one
@@ -253,4 +263,16 @@ footer
     padding-right: 55px;
     padding-left: 55px;
 }
+
+h5
+{
+    font-size: 150%;
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+
+
+
+/* add a zoom hover on the players boxes */
+
 
