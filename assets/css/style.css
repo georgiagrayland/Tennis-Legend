@@ -16,6 +16,13 @@ body
 
 /* headings and logo */
 
+.topnav
+{
+    background-color: #070566;
+    overflow: hidden;
+    height: 50%;
+}
+
 
 #logo
 {
@@ -37,17 +44,41 @@ h2, h3
     font-weight: 500;
 }
 
+/* navigation link */
 
 #menu
 {
     float: right;
-    color: #85E309;
+    font-size: 130%;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: flex-end;
+    line-height: 80px;
 }
 
 #menu li
 {
     list-style: none;
+    color: #85E309;
+    margin-right: 30px;
 }
+
+#menu a
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover
+{
+    border-bottom: 2px solid #85E309;
+}
+
+.active
+{
+    border-bottom: 2px solid #85E309;
+}
+
 
 .slam-events
 {
