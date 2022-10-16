@@ -21,6 +21,7 @@ body
     background-color: #070566;
     overflow: hidden;
     height: 100px;
+    width: 100%;
 }
 
 
@@ -215,9 +216,16 @@ footer
     color: #fff;
 }
 
+/* events page */
+
 .slam-events
 {
     text-align: center;
+}
+
+.competitions
+{
+    width: 100%;
 }
 
 .competitions h3
@@ -234,24 +242,58 @@ footer
     height: 44px;
     margin: auto;
     padding: 22px;
-    border-style: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 #container-details-one
 {
-    padding-top: 60px;
+    padding-top: 90px;
     float: left;
-    margin-left: 40px;
+    margin-left: 120px;
     line-height: 50px;
 }
 
+#container-details-one h4
+{
+    font-size: 130%;
+}
+
+#container-details-two h4
+{
+    font-size: 130%;
+}
+
+#tennis-image-one img
+{
+    border-radius: 25px;
+}
+
+#tennis-image-two img
+{
+    border-radius: 25px;
+}
+
+
+
 #tennis-image-one
 {
-    width: 500px;
-    height: 350px;
+    max-width: 40%;
+    height: auto;
     overflow: hidden;
     float: right;
-    margin-right: 50px;
+    margin-right: 90px;
+    padding-top: 50px;
+}
+
+#tennis-image-two
+{
+    max-width: 40%;
+    height: auto;
+    overflow: hidden;
+    float: left;
+    margin-left: 90px;
+    padding-top: 50px;
 }
 
 .intro
@@ -259,13 +301,11 @@ footer
     font-size: 120%;
 }
 
-/*insert details for image styling*/
-
 #container-details-two
 {
-    padding-top: 60px;
+    padding-top: 90px;
     float: right;
-    margin-right: 40px;
+    margin-right: 100px;
     line-height: 50px;
 }
 
@@ -275,7 +315,7 @@ footer
     clear: both;
     margin: 0 auto;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 70px;
     padding-bottom: 50px;
     padding-right: 55px;
     padding-left: 55px;
@@ -286,6 +326,12 @@ h5
     font-size: 150%;
     text-decoration: underline;
     padding-bottom: 20px;
+}
+
+
+.more-details p
+{
+    font-size: 100%;
 }
 
 
