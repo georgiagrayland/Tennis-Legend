@@ -112,17 +112,19 @@ h2, h3
     margin: auto;
     background-color: #eb3f5f;
     opacity: 0.5;
-    color: #fff;
-    font-family: Raleway, sans-serif;
     position: absolute;
-    text-align: center;
     width: 90%;
+    height: 200px;
     top: 280px;
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    color: #fff;
+    text-align: center;
     letter-spacing: 4px;
     font-size: 170%;
     font-weight: bold;
-    text-align: center;
-    }
+}
+
 
 #about
 {
@@ -285,18 +287,18 @@ footer
 {
     max-width: 40%;
     height: auto;
+    object-fit: cover;
     overflow: hidden;
     float: right;
-    margin: 0 0 20px 20px;
 }
 
 #tennis-image-two
 {
     max-width: 40%;
     height: auto;
+    object-fit: cover;
     overflow: hidden;
     float: left;
-    margin-left: 90px;
     padding-top: 50px;
 }
 
@@ -333,7 +335,7 @@ h5
 
 .more-details p
 {
-    font-size: 100%;
+    font-size: 110%;
 }
 
 
@@ -369,10 +371,28 @@ h5
     font-weight: bold;
 }
 
+#gender
+{
+    color: #070566;
+    font-size: 150%;
+    padding-top: 10px;
+}
+
 #best-videos
 {
     background-color: #a2c4c9;
 }
+
+#video-header
+{
+    font-size: 140%;
+    color: #070566;
+    font-weight: bold;
+    text-decoration: underline;
+    padding-top: 10px;
+}
+
+
 
 
 /* add a zoom hover on the players boxes */
