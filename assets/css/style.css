@@ -382,14 +382,17 @@ h5
     color: #070566;
     font-size: 150%;
     padding-top: 10px;
+    padding-bottom: 15px;
 }
 
 #players-left, #players-right
 {
+    display: inline-block;
     border: 2px solid red;
     background-color: #f4fcd2;
     width: 350px;
     padding-left: 10px;
+    margin-right: 20px;
     margin-left: 20px;
     padding: 5px;
     margin-bottom: 15px;
@@ -398,7 +401,6 @@ h5
 #players-left:hover, #players-right:hover
 {
     background-color: #d2edfc;
-    transform: scale(1.1);
 }
 
 #names
@@ -437,7 +439,7 @@ h5
     color: #070566;
     font-weight: bold;
     text-decoration: underline;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 #player-videos
@@ -463,6 +465,7 @@ h5
 .videos li 
 {
     padding: 20px;
+    padding-bottom: 50px;
 }
 
 /* add a colour change on hover on the players boxes */
