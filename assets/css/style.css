@@ -241,9 +241,16 @@ footer
     width: 100%;
     height: 44px;
     margin: auto;
-    padding: 22px;
+    padding-top: 7px;
+    padding-bottom: 7px;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
+}
+
+.icons-image
+{
+    width: 95%;
+    margin: 0 auto;
 }
 
 #container-details-one
@@ -274,16 +281,13 @@ footer
     border-radius: 25px;
 }
 
-
-
 #tennis-image-one
 {
     max-width: 40%;
     height: auto;
     overflow: hidden;
     float: right;
-    margin-right: 90px;
-    padding-top: 50px;
+    margin: 0 0 20px 20px;
 }
 
 #tennis-image-two
@@ -311,14 +315,12 @@ footer
 
 .more-details
 {
-    width: 100%;
+    width: 80%;
+    margin: auto;
     clear: both;
-    margin: 0 auto;
     text-align: center;
     padding-top: 70px;
     padding-bottom: 50px;
-    padding-right: 55px;
-    padding-left: 55px;
 }
 
 h5
@@ -343,6 +345,33 @@ h5
 .more-details a:hover
 {
     color: #85E309;
+}
+
+/* players page */
+
+#players
+{
+    background-color: #a2c4c9;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    height: 44px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+#players h2{
+    color: #034e61;
+    font-size: 180%;
+    font-weight: bold;
+}
+
+#best-videos
+{
+    background-color: #a2c4c9;
 }
 
 
