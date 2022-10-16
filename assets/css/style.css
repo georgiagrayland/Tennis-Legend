@@ -364,6 +364,12 @@ h5
     border-bottom: 1px solid black;
 }
 
+.player-cards
+{
+    margin: 0 auto;
+    clear: both;
+    width: 100%;
+}
 
 #players h2{
     color: #034e61;
@@ -378,6 +384,35 @@ h5
     padding-top: 10px;
 }
 
+#players-left, #players-right
+{
+    border: 1.5px solid red;
+    width: 350px;
+    padding-left: 10px;
+    margin-left: 20px;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+#names
+{
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 3px;
+}
+#players-right ul, #players-left ul
+{
+    list-style-type: none;
+    line-height: 170%;
+}
+
+.sm-names
+{
+    text-align: right;
+}
+
+/* videos section */ 
 #best-videos
 {
     background-color: #a2c4c9;
@@ -418,6 +453,6 @@ h5
     padding: 20px;
 }
 
-/* add a zoom hover on the players boxes */
+/* add a colour change on hover on the players boxes */
 
 
