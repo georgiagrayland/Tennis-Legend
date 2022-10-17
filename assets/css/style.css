@@ -358,12 +358,22 @@ h5
     border-bottom: 1px solid black;
 }
 
+#cards
+{
+    margin: 0 auto;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+/*
 .player-cards
 {
     margin: 0 auto;
     clear: both;
     width: 100%;
 }
+
+*/
 
 #players h2{
     color: #034e61;
@@ -379,18 +389,19 @@ h5
     padding-bottom: 15px;
 }
 
+
 #players-left, #players-right
 {
     display: inline-block;
     border: 2px solid red;
     background-color: #f4fcd2;
     width: 350px;
-    padding-left: 10px;
-    margin-right: 20px;
-    margin-left: 20px;
+    margin: 20px;
     padding: 5px;
     margin-bottom: 15px;
+    object-position: center;
 }
+
 
 #players-left:hover, #players-right:hover
 {
