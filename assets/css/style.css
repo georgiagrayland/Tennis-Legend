@@ -508,9 +508,19 @@ label, input, #radio
     line-height: 50px;
 }
 
+.radio-preference
+{
+    font-size: 140%;
+    font-weight: bolder;
+}
+
 #radio
 {
-    line-height: 200%
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
 }
 
 
@@ -527,4 +537,10 @@ label, input, #radio
     float: right;
     margin-right: 20px;
     margin-bottom: 15px;
+}
+
+#button:hover
+{
+    background-color: #3a3a3a;
+    color: #ffffff;
 }
