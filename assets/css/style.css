@@ -102,13 +102,15 @@ h2, h3
 #cover-text
 {
     margin: auto;
-    background-color: #eb3f5f;
-    opacity: 0.5;
+    width: auto;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: rgba(247, 60, 72, 0.8);
     position: absolute;
-    width: 90%;
     height: 200px;
     top: 280px;
     text-align: center;
+    padding-top: 20px;
     font-family: Raleway, sans-serif;
     color: #fff;
     text-align: center;
