@@ -468,6 +468,16 @@ h5
     padding-bottom: 50px;
 }
 
-/* add a colour change on hover on the players boxes */
+/* signup form */
+
+.form-section
+{
+    clear: left;
+    background: url(/assets/images/form-background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    margin-bottom: 40px
+}
 
 
