@@ -231,7 +231,7 @@ footer
     color: #034e61;
 }
 
-#each-open
+.each-open
 {
     background-color: #a2c4c9;
     width: 100%;
@@ -249,7 +249,7 @@ footer
     margin: 0 auto;
 }
 
-#container-details-one
+.container-details-one
 {
     padding-top: 90px;
     float: left;
@@ -257,12 +257,12 @@ footer
     line-height: 50px;
 }
 
-#container-details-one h4
+.container-details-one h4
 {
     font-size: 130%;
 }
 
-#container-details-two h4
+.container-details-two h4
 {
     font-size: 130%;
 }
@@ -301,7 +301,7 @@ footer
     font-size: 120%;
 }
 
-#container-details-two
+.container-details-two
 {
     padding-top: 90px;
     float: right;
