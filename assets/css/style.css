@@ -267,17 +267,17 @@ footer
     font-size: 130%;
 }
 
-#tennis-image-one img
+.tennis-image-one img
 {
     border-radius: 25px;
 }
 
-#tennis-image-two img
+.tennis-image-two img
 {
     border-radius: 25px;
 }
 
-#tennis-image-one
+.tennis-image-one
 {
     max-width: 40%;
     height: auto;
@@ -286,7 +286,7 @@ footer
     float: right;
 }
 
-#tennis-image-two
+.tennis-image-two
 {
     max-width: 40%;
     height: auto;
@@ -330,6 +330,7 @@ h5
 .more-details p
 {
     font-size: 110%;
+    line-height: 25px;
 }
 
 
