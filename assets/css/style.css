@@ -381,7 +381,7 @@ h5
     font-weight: bold;
 }
 
-#gender
+.gender
 {
     color: #070566;
     font-size: 150%;
@@ -390,7 +390,7 @@ h5
 }
 
 
-#players-left, #players-right
+.players-left, .players-right
 {
     display: inline-block;
     border: 2px solid red;
@@ -403,19 +403,19 @@ h5
 }
 
 
-#players-left:hover, #players-right:hover
+.players-left:hover, .players-right:hover
 {
     background-color: #d2edfc;
 }
 
-#names
+.names
 {
     font-size: 130%;
     font-weight: bold;
     text-align: center;
     padding-top: 3px;
 }
-#players-right ul, #players-left ul
+.players-right ul, .players-left ul
 {
     list-style-type: none;
     line-height: 170%;
@@ -453,7 +453,7 @@ h5
     padding-top: 20px;
 }
 
-#player-videos
+.player-videos
 {
     display: inline-block;
     list-style-type: none;
