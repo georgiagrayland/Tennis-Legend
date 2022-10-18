@@ -257,14 +257,9 @@ footer
     line-height: 50px;
 }
 
-.container-details-one h4
+.container-details-one h4, .container-details-two h4
 {
-    font-size: 130%;
-}
-
-.container-details-two h4
-{
-    font-size: 130%;
+    font-size: 120%;
 }
 
 .tennis-image-one img
@@ -311,8 +306,8 @@ footer
 
 .more-details
 {
-    width: 80%;
-    margin: auto;
+    margin: 0 auto;
+    max-width: 90%;
     clear: both;
     text-align: center;
     padding-top: 70px;
@@ -325,7 +320,6 @@ h5
     text-decoration: underline;
     padding-bottom: 20px;
 }
-
 
 .more-details p
 {
@@ -342,6 +336,11 @@ h5
 .more-details a:hover
 {
     color: #85E309;
+}
+
+.map-one, .map-two
+{
+    max-width: 100%;
 }
 
 /* players page */
