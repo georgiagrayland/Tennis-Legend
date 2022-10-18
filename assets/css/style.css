@@ -424,11 +424,17 @@ h5
 .sm-names
 {
     text-align: right;
+    font-size: 120%;
 }
 
 .sm-names i
 {
     font-size: 120%;
+}
+
+.sm-names a:hover
+{
+    color: #d60202;
 }
 
 /* videos section */ 
