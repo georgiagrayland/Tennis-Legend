@@ -331,6 +331,7 @@ h5
 {
     font-size: 110%;
     line-height: 25px;
+    margin-bottom: 35px;
 }
 
 
@@ -346,7 +347,21 @@ h5
 
 .map-one, .map-two
 {
-    max-width: 100%;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+}
+
+.responsive-iframe
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 500px;
 }
 
 /* players page */
@@ -397,11 +412,13 @@ h5
 #left, #center, #right
 {
     display: inline-block;
+    line-height: 170%;
+    font-size: 115%;
     border: 2px solid red;
     background-color: #f4fcd2;
-   padding: 5px; 
+    padding: 5px; 
     margin-bottom: 15px;
-    width: 300px;
+    width: 320px;
 }
 
 #left ul, #center ul, #right ul
@@ -461,6 +478,7 @@ h5
 }
 
 /* videos section */ 
+
 #best-videos
 {
     background-color: #a2c4c9;
