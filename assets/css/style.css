@@ -36,14 +36,11 @@ body
     margin-top: 20px
 }
 
-h2, h3
+#logo i
 {
-    font-family: Raleway;
-    color: white;
-    letter-spacing: 2px;
-    text-align: center;
-    font-weight: 500;
+    font-size: 90%;
 }
+
 
 /* navigation links */
 
@@ -103,14 +100,18 @@ h2, h3
 {
     margin: auto;
     width: auto;
+    height: auto;
     margin-right: 25px;
     margin-left: 25px;
     background-color: rgba(247, 60, 72, 0.8);
     position: absolute;
-    height: 200px;
     top: 280px;
     text-align: center;
     padding-top: 20px;
+}
+
+#cover-text h2, #cover-text h3
+{
     font-family: Raleway, sans-serif;
     color: #fff;
     text-align: center;
@@ -229,6 +230,7 @@ footer
     font-size: 180%;
     font-weight: bold;
     color: #034e61;
+    text-align: center;
 }
 
 .each-open
@@ -377,13 +379,16 @@ h5
 
 #players h2{
     color: #034e61;
-    font-size: 180%;
+    width: auto;
+    text-align: center;
+    font-size: 170%;
     font-weight: bold;
 }
 
 .gender
 {
     color: #070566;
+    text-align: center;
     font-size: 150%;
     padding-top: 10px;
     padding-bottom: 15px;
@@ -441,23 +446,27 @@ h5
 #best-videos
 {
     background-color: #a2c4c9;
-    max-width: 100%;
+    width: auto;
 }
 
 #video-header
 {
     font-size: 140%;
     color: #070566;
+    text-align: center;
     font-weight: bold;
     text-decoration: underline;
     padding-top: 20px;
 }
 
+/*
 .player-videos
 {
     display: inline-block;
     list-style-type: none;
+    width: auto;
 }
+*/
 
 #video-header:hover
 {
@@ -471,12 +480,20 @@ h5
     text-align: center;
     width: 100%;
     margin: 0 auto;
+    display: inline-block;
 }
 
-.videos li 
+
+.responsive-video
 {
-    padding: 20px;
-    padding-bottom: 50px;
+    position: relative;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 560px;
+    max-width: 95%;
+    max-height: 100%;
 }
 
 /* signup form */
