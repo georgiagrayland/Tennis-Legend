@@ -267,6 +267,7 @@ footer
     padding-top: 60px;
     text-align: center;
     line-height: 50px;
+    max-width: 95%;
 }
 
 .container-details-one i, .container-details-two i
