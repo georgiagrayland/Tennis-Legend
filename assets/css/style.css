@@ -109,14 +109,24 @@ body
     padding-top: 20px;
 }
 
+#cover-text h2
+{
+    padding-bottom: 10px;
+    font-size: 170%;
+}
+
 #cover-text h2, #cover-text h3
 {
     font-family: Raleway, sans-serif;
     color: #fff;
     text-align: center;
     letter-spacing: 4px;
-    font-size: 170%;
     font-weight: bold;
+}
+
+#cover-text h3
+{
+    font-size: 160%;
 }
 
 
@@ -263,14 +273,9 @@ footer
     font-size: 120%;
 }
 
-.tennis-image-one img
+.tennis-image-one img, .tennis-image-two img
 {
-    border-radius: 25px;
-}
-
-.tennis-image-two img
-{
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .tennis-image-one
@@ -366,16 +371,6 @@ h5
     padding-bottom: 20px;
 }
 
-/*
-.player-cards
-{
-    margin: 0 auto;
-    clear: both;
-    width: 100%;
-}
-
-*/
-
 #players h2{
     color: #034e61;
     width: auto;
@@ -387,27 +382,38 @@ h5
 .gender
 {
     color: #070566;
+    text-decoration: underline;
     text-align: center;
     font-size: 150%;
     padding-top: 10px;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
+}
+
+.players-men, .players-women
+{
+    margin: 0 auto;
+    width: auto;
+}
+
+.players-men ul, .players-women ul
+{
+    width: 300px;
+    max-width: 95%;
+    list-style-type: none;
 }
 
 
-.players-left, .players-right
+#left, #center, #right
 {
     display: inline-block;
     border: 2px solid red;
     background-color: #f4fcd2;
-    width: 350px;
-    margin: 20px;
     padding: 5px;
     margin-bottom: 15px;
-    object-position: center;
 }
 
 
-.players-left:hover, .players-right:hover
+#left:hover, #center:hover, #right:hover
 {
     background-color: #d2edfc;
 }
@@ -419,10 +425,11 @@ h5
     text-align: center;
     padding-top: 3px;
 }
-.players-right ul, .players-left ul
+.players-men ul, .players-women ul
 {
     list-style-type: none;
     line-height: 170%;
+    font-size: 115%;
 }
 
 .sm-names
@@ -458,15 +465,6 @@ h5
     padding-top: 20px;
 }
 
-/*
-.player-videos
-{
-    display: inline-block;
-    list-style-type: none;
-    width: auto;
-}
-*/
-
 #video-header:hover
 {
     transform: scale(1.2);
@@ -490,6 +488,7 @@ h5
     left: 0;
     bottom: 0;
     right: 0;
+    padding-bottom: 5px;
     width: 560px;
     max-width: 95%;
     max-height: 100%;
