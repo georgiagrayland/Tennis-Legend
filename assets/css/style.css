@@ -261,12 +261,17 @@ footer
     margin: 0 auto;
 }
 
-.container-details-one
+.container-details-one, .container-details-two
 {
     padding-top: 90px;
-    float: left;
-    margin-left: 120px;
+    text-align: center;
     line-height: 50px;
+}
+
+.container-details-one i, .container-details-two i
+{
+    font-size: 150%;
+    padding-right: 5px;
 }
 
 .container-details-one h4, .container-details-two h4
@@ -274,41 +279,26 @@ footer
     font-size: 120%;
 }
 
+.tennis-image-one, .tennis-image-two
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    height: auto;
+    object-fit: cover;
+    overflow: hidden;
+}
+
 .tennis-image-one img, .tennis-image-two img
 {
-    border-radius: 15px;
-}
-
-.tennis-image-one
-{
-    max-width: 40%;
-    height: auto;
-    object-fit: cover;
-    overflow: hidden;
-    float: right;
-}
-
-.tennis-image-two
-{
-    max-width: 40%;
-    height: auto;
-    object-fit: cover;
-    overflow: hidden;
-    float: left;
-    padding-top: 50px;
+    border-radius: 10px;
+    max-width: 95%;
 }
 
 .intro
 {
     font-size: 120%;
-}
-
-.container-details-two
-{
-    padding-top: 90px;
-    float: right;
-    margin-right: 100px;
-    line-height: 50px;
 }
 
 .more-details
@@ -330,9 +320,9 @@ h5
 
 .more-details p
 {
-    font-size: 110%;
+    font-size: 120%;
     line-height: 25px;
-    margin-bottom: 35px;
+    margin-bottom: 30px;
 }
 
 
