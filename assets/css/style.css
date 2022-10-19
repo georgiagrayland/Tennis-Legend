@@ -20,8 +20,6 @@ body
 {
     background-color: #070566;
     overflow: hidden;
-    height: 100px;
-    width: 100%;
 }
 
 
@@ -30,7 +28,8 @@ body
     font-family: Russo One, sans-serif;
     color: #85E309;
     letter-spacing: 4px;
-    font-size: 300%;
+    line-height: 80px;
+    font-size: 290%;
     float: left;
     margin-left: 30px;
     margin-top: 20px
@@ -46,19 +45,19 @@ body
 
 #menu
 {
-    float: right;
-    font-size: 130%;
-    letter-spacing: 3px;
-    display: flex;
-    justify-content: flex-end;
+    font-size: 120%;
+    letter-spacing: 1px;
     line-height: 80px;
 }
 
 #menu li
 {
-    list-style: none;
+    float: right;
+    display: block;
     color: #85E309;
-    margin-right: 30px;
+    margin-right: 10px;
+    list-style-type: none;
+    margin-top: 10px;
 }
 
 #menu a
@@ -579,4 +578,18 @@ label, input, #radio
 {
     background-color: #3a3a3a;
     color: #ffffff;
+}
+
+/* for medium screen sizes from 950px wide and down */
+
+@media-screen and (max-width: 950px)
+{
+    #menu
+    {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 30px;
+    }
 }
