@@ -127,6 +127,7 @@ body
 #cover-text h3
 {
     font-size: 160%;
+    padding-bottom: 10px;
 }
 
 
@@ -540,6 +541,7 @@ h5
 {
     padding-top: 20px;
     object-fit: contain;
+    margin-left: 10px;
 }
 
 
@@ -550,6 +552,7 @@ h5
     color: #ffffff;
     left: 10%;
     border-radius: 4px;
+    text-align: center;
 }
 
 legend
@@ -558,30 +561,41 @@ legend
     font-weight: bolder;
     text-align: center;
     padding-top: 3%;
-    margin: 3%;
 }
 
 .signup-form label{
     color: #ffffff;
-    font-size: 120%;
+    font-size: 100%;
 }
 
-label, input, #radio
+.form-inputs label
+{
+    display: inline-block;
+    width: 150px;
+}
+
+#radio
 {
     text-align: center;
 }
 
-.form-inputs
+.form-inputs 
 {
-    text-align: center;
     line-height: 50px;
 }
+
+.form-inputs input
+{
+    width: 200px;
+}
+
 
 input[type=text], input[type=email]
 {
     border: 1px solid black;
     border-radius: 4px;
     height: 17px;
+    width: 100px;
 }
 
 .radio-preference
@@ -597,8 +611,8 @@ input[type=text], input[type=email]
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 12px;
-    width: 100%;
+    gap: 10px;
+    width: 95%;
 }
 
 
@@ -623,6 +637,11 @@ input[type=text], input[type=email]
     color: #ffffff;
 }
 
+/* Media Queries */
+
+
+
+
 /* for medium screen sizes from 950px wide and down */
 
 @media-screen and (max-width: 950px)
@@ -634,5 +653,19 @@ input[type=text], input[type=email]
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 30px;
+    }
+
+    #cover-text
+    {
+        left: 0;
+    }
+}
+
+@media screen and (max-width: 800px)
+{
+    #full-form
+    {
+        margin-left: 7px;
+        margin-right: 7px;
     }
 }
