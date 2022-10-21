@@ -636,7 +636,8 @@ input[type=text], input[type=email]
 
     .left, .center, .right
     {
-        width: 80%;
+        margin: 0 auto;
+        width: 100%;
     }
 
 }
