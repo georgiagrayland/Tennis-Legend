@@ -401,7 +401,7 @@ h5
 }
 
 
-#left, #center, #right
+.left, .center, .right
 {
     width: 30%;
     height: 15%;
@@ -416,7 +416,7 @@ h5
 }
 
 
-#left ul, #center ul, #right ul
+.left ul, .center ul, .right ul
 {
     list-style-type: none;
     line-height: 170%;
@@ -424,7 +424,7 @@ h5
 }
 
 
-#left:hover, #center:hover, #right:hover
+.left:hover, .center:hover, .right:hover
 {
     background-color: #d2edfc;
 }
@@ -634,7 +634,7 @@ input[type=text], input[type=email]
         left: 0;
     }
 
-    #left, #center, #right
+    .left, .center, .right
     {
         width: 80%;
     }
@@ -648,7 +648,7 @@ input[type=text], input[type=email]
         margin-left: 5px;
     }
 
-    #left, #center, #right
+    .left, .center, .right
     {
         width: 90%;
     }
