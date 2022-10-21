@@ -402,6 +402,7 @@ h5
 
 .players-men, .players-women
 {
+    display: inline-block;
     margin: 0 auto;
     width: auto;
 }
@@ -423,19 +424,7 @@ h5
 {
     list-style-type: none;
     line-height: 170%;
-    font-size: 115%;
-}
-
-#left
-{
-    float: left;
-    max-width: 90%;
-}
-
-#right
-{
-    float: right;
-    max-width: 90%;
+    font-size: 100%;
 }
 
 #center
@@ -443,7 +432,7 @@ h5
     margin: 0;
     max-width: 90%;
 }
-
+*/
 
 #left:hover, #center:hover, #right:hover
 {
@@ -661,6 +650,11 @@ input[type=text], input[type=email]
 
 @media screen and (max-width: 800px)
 {
+    .container-details-one, .container-details-two
+    {
+        margin-left: 5px;
+    }
+
     #full-form
     {
         margin-left: 7px;
