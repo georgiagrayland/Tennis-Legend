@@ -404,9 +404,8 @@ h5
 {
     display: inline-block;
     margin: 0 auto;
-    width: auto;
+    width: 100%;
 }
-
 
 #left, #center, #right
 {
@@ -432,7 +431,6 @@ h5
     margin: 0;
     max-width: 90%;
 }
-*/
 
 #left:hover, #center:hover, #right:hover
 {
