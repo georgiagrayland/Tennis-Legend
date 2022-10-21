@@ -375,14 +375,6 @@ h5
     padding-bottom: 7px;
 }
 
-/*
-#cards
-{
-    margin: 0 auto;
-    width: 100%;
-    padding-bottom: 20px;
-}
-*/
 
 #players h2{
     color: #034e61;
@@ -405,19 +397,21 @@ h5
 #cards
 {
     margin: 0 auto;
-    width: 80%;
+    width: 95%;
 }
 
 
 #left, #center, #right
 {
     width: 30%;
+    height: 15%;
     display: inline-block;
     line-height: 170%;
     font-size: 115%;
     border: 2px solid red;
     background-color: #f4fcd2;
     padding: 5px; 
+    margin: 10px;
     margin-bottom: 15px;
 }
 
@@ -429,13 +423,6 @@ h5
     font-size: 100%;
 }
 
-/*
-#center
-{
-    margin: 0;
-    max-width: 90%;
-}
-*/
 
 #left:hover, #center:hover, #right:hover
 {
@@ -629,9 +616,6 @@ input[type=text], input[type=email]
 
 /* Media Queries */
 
-
-
-
 /* for medium screen sizes from 950px wide and down */
 
 @media-screen and (max-width: 950px)
@@ -649,6 +633,12 @@ input[type=text], input[type=email]
     {
         left: 0;
     }
+
+    #left, #center, #right
+    {
+        width: 80%;
+    }
+
 }
 
 @media screen and (max-width: 800px)
@@ -656,6 +646,11 @@ input[type=text], input[type=email]
     .container-details-one, .container-details-two
     {
         margin-left: 5px;
+    }
+
+    #left, #center, #right
+    {
+        width: 90%;
     }
 
     #full-form
