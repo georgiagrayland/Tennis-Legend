@@ -264,7 +264,7 @@ footer
 
 .container-details-one, .container-details-two
 {
-    padding-top: 60px;
+    padding-top: 40px;
     text-align: center;
     line-height: 50px;
     max-width: 95%;
@@ -273,14 +273,12 @@ footer
 .container-details-one i, .container-details-two i
 {
     font-size: 150%;
-    padding-right: 5px;
 }
 
 
 .container-details-one li, .container-details-two li
 {
     font-size: 110%;
-    vertical-align: middle;
     display: block;
     justify-content: center;
     flex-direction: column;
