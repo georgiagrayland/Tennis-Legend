@@ -15,13 +15,13 @@ What they will find on this website is the essential information on the history,
 * Navigation bar featured at the top of the page, showing the name of the website in the left corner: Tennis Legend. This links to the home page. 
 * Other navigation links are to the right: Home, Event Details, Who’s Playing, and Sign Up, which link to different sections of the site. 
 * The Navigation Text is in a sport-style font, in a color that contrasts with the background of the navigation section. 
-* he navigation clearly shows the user the name of the website and makes the different sections of information available easy to find and move between. 
+* The navigation clearly shows the user the name of the website and makes the different sections of information available easy to find and move between. 
 
 ![Navigation Bar](readme-assets/tennis-legend-nav.png)
 
 ## Index Page
 
-* The hero image and overlaid text draw the users attention to the fact that this website is an information hub for the Grand Slam tennis tournaments. 
+* The Hero Image and overlaid text draw the users attention to the fact that this website is an information hub for the Grand Slam tennis tournaments. 
 * The text underneath outlines the name of each Grand Slam tournament throughout the year and some facts on why the user should be interested in them. 
 
 ![Hero Image](readme-assets/tennis-legend-hero-image.png)
@@ -69,7 +69,7 @@ What they will find on this website is the essential information on the history,
 # Testing
 
 * I tested that this page works in the different browsers: Chrome, Firefox, and Safari. 
-* The Index, Event Details, and Sign Up pages are responsive, with the style being similar on varying screen sizes. Shown in the image below. —> (Image) 
+* The Index, Events, and Sign Up pages are responsive, with the style being similar on varying screen sizes. Shown in the image below. —> (Image) 
 * The Who’s Playing page is responsive, with the layout changing more significantly on different screen sizes due to the layout of the content. See below; —> (image)
 * I confirmed that the navigation bar and header text are all readable and easy to understand. 
 * I have confirmed that the form entries work: the name fields accept text and the email field will only accept an email address, and the submit button works and is clear and easy to understand. 
@@ -92,7 +92,7 @@ What they will find on this website is the essential information on the history,
 
 # Deployment 
 
-* This site was deployed to GitHub pages. The steps to deploy are as follows:
+This site was deployed to GitHub pages. The steps to deploy are as follows:
     * In the GitHub repository, navigate to the Settings tab. 
     * From the source section drop-down menu, select the Master Branch. 
     * Once the Master Branch has been selected, the page provided links to the completed website.
