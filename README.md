@@ -47,11 +47,11 @@ What they will find on this website is the essential information on the history,
 ![Events Section iframe](readme-assets/event-p4.png)
 
 ## Players Page
-* The players page displays cards for 3 male players and 3 female players to look out for in the next Grand Slam tournaments. Each card includes key facts such as age, number of career titles so far, career prize money so far, and what their current world ranking is. They also include direct links to each players instagram page, which open up in a new tab. 
+* The players page displays cards for 3 male players and 3 female players to look out for in the next Grand Slam tournaments. Each card includes key facts such as age, number of career titles so far, career prize money so far, and what their current world ranking is. They also include direct links to each players Instagram page, which open up in a new tab. 
 
 ![players section](readme-assets/tennis-legend-player-cards.png)
 
-* Further down this page there are two videos demonstrating some of the most exciting plays from some of the mentioned players. These videos can be controlled directly on the Tennis Legend website. 
+* Further down this page there are two YouTube videos demonstrating some of the most exciting plays from some of the mentioned players. These videos can be controlled directly on the Tennis Legend website. 
 
 ![Best Videos Section](readme-assets/best-videos.png)
 
@@ -82,7 +82,7 @@ What they will find on this website is the essential information on the history,
 
 - Accessbility 
     - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through the Lighthouse tool:
-(Insert Lighthouse score)
+ ![Lighthouse](readme-assets/lighthouse-tennislegend.png%20.png)
 
 - Bugs 
     - No unfixed bugs. 
@@ -101,11 +101,11 @@ The live link can be found here: [insert live link]
 Thank you to my mentor Anthony who guided me through my first project.
 
 ### Content
-* The code to make the social media links in the footer was taken from the [love running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/). 
+* The code to make the social media links in the footer was taken from the [love running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/) CI Project. 
 * The Icons in the header, Event Details Page, Who’s Playing page, and footer were taken from [Font Awesome](https://fontawesome.com/icons).
 * The fonts used in the website were taken from [Google Fonts](https://fonts.google.com/).
 * Text was written by myself utilising facts gathered from desk-based research. 
-* Inspiration for the hero image was taken from the Love Running Walkthrough Project from (www.codeinstitute.net)
+* Inspiration for the hero image was taken from the Love Running Walkthrough Project from www.codeinstitute.net
 
 ### Media
 * The code to make the pages responsive was inspired by [W3C Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp).
