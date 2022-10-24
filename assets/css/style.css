@@ -81,7 +81,7 @@ body
 
 #hero-outer
 {
-    height: 600px;
+    height: 700px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -89,7 +89,7 @@ body
 
 .hero-image
 {
-    height: 600px;
+    height: 700px;
     width: 100%;
     object-fit: cover;
 }
@@ -127,14 +127,14 @@ body
 #cover-text h3
 {
     font-size: 160%;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 
 #about
 {
     background-color: #d9f3fa;
-    padding: 80px;
+    padding: 50px;
 }
 
 #about p
