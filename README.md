@@ -36,17 +36,31 @@ What they will find on this website is the essential information on the history,
 
 ## Events Page 
 * The Events Page outlines details on each Grand Slam tournament. This includes when each one is, the exact location, top players at each one, and key points about the city that each one is held in. 
-* each one is held in. 
-This section shows the user important information they need to know about each tournament, what each city offers and how they can buy tickets for the next event.
+* This section shows the user important information they need to know about each tournament, what each city offers and how they can buy tickets for the next event. It also inclides a responsive Google Maps Iframe of the stadium location. 
+
+![Events Section](readme-assets/event-p1.png)
+
+![Events Section](readme-assets/event-p2.png)
+
+![Events Section](readme-assets/event-p3.png)
+
+![Events Section iframe](readme-assets/event-p4.png)
 
 ## Players Page
 * The players page displays cards for 3 male players and 3 female players to look out for in the next Grand Slam tournaments. Each card includes key facts such as age, number of career titles so far, career prize money so far, and what their current world ranking is. They also include direct links to each players instagram page, which open up in a new tab. 
+
+![players section](readme-assets/tennis-legend-player-cards.png)
+
 * Further down this page there are two videos demonstrating some of the most exciting plays from some of the mentioned players. These videos can be controlled directly on the Tennis Legend website. 
+
+![Best Videos Section](readme-assets/best-videos.png)
 
 ## Sign Up Form
 * The sign up section has a form to collect details from users so that they can enter a draw to win tickets to a Grand Slam. 
 * The form collect the user’s first name, last name, and an email address. It also includes a radio button selector for users to indicate a preference of tournament they would like to win tickets for. 
 * The form is valuable to the user as it gives them the ability to enter a competition and also be on the mailing list for Tennis Legend for future contact. 
+
+![Signup Form](readme-assets/tennis-legend-signup.png)
 
 ------
 
@@ -97,9 +111,9 @@ Thank you to my mentor Anthony who guided me through my first project.
 * The code to make the pages responsive was inspired by [W3C Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp).
 - The Hero Image was taken from [Pexels](https://www.pexels.com/). 
 - The images on the Event Details page and Sign up form were taken from:
-    - [Unsplash](https://unsplash.com/). 
-    - [Pixabay](https://pixabay.com/).
-    - [Pxhere](https://pxhere.com/). 
+    - [Unsplash](https://unsplash.com/)
+    - [Pixabay](https://pixabay.com/)
+    - [Pxhere](https://pxhere.com/)
 - The Youtube videos on the Players page are taken from the Tennis TV (https://www.youtube.com/results?search_query=tennis+tv) and Eurosport Tennis (https://www.youtube.com/channel/UCxyDulPLBU9WiiN43xTs5FQ) Channels on YouTube. 
 - I take no credit for any of the images or videos displayed on this website and they are used for educational purposes only. I do not make any money by using them. 
 
