@@ -46,6 +46,8 @@ What they will find on this website is the essential information on the history,
 
 ![Events Section iframe](readme-assets/event-p4.png)
 
+![link to official website](readme-assets/event-link.png)
+
 ## Players Page
 * The players page displays cards for 3 male players and 3 female players to look out for in the next Grand Slam tournaments. Each card includes key facts such as age, number of career titles so far, career prize money so far, and what their current world ranking is. They also include direct links to each players Instagram page, which open up in a new tab. 
 
