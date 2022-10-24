@@ -404,13 +404,13 @@ h5
 .left, .center, .right
 {
     width: 30%;
-    height: 15%;
+    height: 250px;
     display: inline-block;
     line-height: 170%;
     font-size: 115%;
     border: 2px solid red;
     background-color: #f4fcd2;
-    padding: 5px; 
+    padding: 5px;
     margin: 10px;
     margin-bottom: 15px;
 }
@@ -636,8 +636,7 @@ input[type=text], input[type=email]
 
     .left, .center, .right
     {
-        margin: 0 auto;
-        width: 100%;
+        width: 50%;
     }
 
 }
@@ -652,6 +651,7 @@ input[type=text], input[type=email]
     .left, .center, .right
     {
         width: 90%;
+        margin: 10px;
     }
 
     #full-form

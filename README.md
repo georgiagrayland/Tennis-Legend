@@ -90,9 +90,8 @@ Thank you to my mentor Anthony who guided me through my first project.
 - The Hero Image was taken from [Pexels](https://www.pexels.com/). 
 - The images on the Event Details page and Sign up form were taken from:
     - [Unsplash](https://unsplash.com/). 
-    - [Pixabay] (https://pixabay.com/).
-    - [Pxhere] (https://pxhere.com/). 
-- Images were resized using [VistaCreate] - https://create.vista.com/home/
+    - [Pixabay](https://pixabay.com/).
+    - [Pxhere](https://pxhere.com/). 
 - The Youtube videos on the Players page are taken from the Tennis TV (https://www.youtube.com/results?search_query=tennis+tv) and Eurosport Tennis (https://www.youtube.com/channel/UCxyDulPLBU9WiiN43xTs5FQ) Channels on YouTube. 
 - I take no credit for any of the images or videos displayed on this website and they are used for educational purposes only. I do not make any money by using them. 
 
