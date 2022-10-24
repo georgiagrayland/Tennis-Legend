@@ -79,17 +79,20 @@ The live link can be found here: [insert live link]
 Thank you to my mentor Anthony who guided me through my first project.
 
 ### Content
-* The code to make the social media links in the footer was taken from the CI “Love Running’ Project [Love running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/. 
+* The code to make the social media links in the footer was taken from the [love running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/). 
 * The Icons in the header, Event Details Page, Who’s Playing page, and footer were taken from [Font Awesome](https://fontawesome.com/icons).
-* The fonts used in the website were taken from [Google fonts]
+* The fonts used in the website were taken from [Google Fonts](https://fonts.google.com/).
 * Text was written by myself utilising facts gathered from desk-based research. 
-* Inspiration for the hero image was taken from the Love Running Walkthrough Project from www.codeinstitute.net.
+* Inspiration for the hero image was taken from the Love Running Walkthrough Project from (www.codeinstitute.net)
 
 ### Media
-* The code to make the pages responsive was inspired by [W3C Schools]
-- The Hero Image was taken from Pixels https://www.pexels.com/
-- The images on the Event Details page and Sign up form were taken from Unsplash, Pixabay, and Pxhere: https://unsplash.com/ https://pixabay.com/ https://pxhere.com/. 
-- Images were resized using VistaCreate - https://create.vista.com/home/
+* The code to make the pages responsive was inspired by [W3C Schools](https://www.w3schools.com/css/css_rwd_mediaqueries.asp).
+- The Hero Image was taken from [Pexels](https://www.pexels.com/). 
+- The images on the Event Details page and Sign up form were taken from:
+    - [Unsplash](https://unsplash.com/). 
+    - [Pixabay] (https://pixabay.com/).
+    - [Pxhere] (https://pxhere.com/). 
+- Images were resized using [VistaCreate] - https://create.vista.com/home/
 - The Youtube videos on the Players page are taken from the Tennis TV (https://www.youtube.com/results?search_query=tennis+tv) and Eurosport Tennis (https://www.youtube.com/channel/UCxyDulPLBU9WiiN43xTs5FQ) Channels on YouTube. 
 - I take no credit for any of the images or videos displayed on this website and they are used for educational purposes only. I do not make any money by using them. 
 
