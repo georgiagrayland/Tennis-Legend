@@ -10,21 +10,29 @@ What they will find on this website is the essential information on the history,
 
 # Features
 
-## Navigation Bar
+## Logo & Navigation Bar
 
 * Navigation bar featured at the top of the page, showing the name of the website in the left corner: Tennis Legend. This links to the home page. 
 * Other navigation links are to the right: Home, Event Details, Who’s Playing, and Sign Up, which link to different sections of the site. 
 * The Navigation Text is in a sport-style font, in a color that contrasts with the background of the navigation section. 
 * he navigation clearly shows the user the name of the website and makes the different sections of information available easy to find and move between. 
 
+![Navigation Bar](readme-assets/tennis-legend-nav.png)
+
 ## Index Page
 
 * The hero image and overlaid text draw the users attention to the fact that this website is an information hub for the Grand Slam tennis tournaments. 
 * The text underneath outlines the name of each Grand Slam tournament throughout the year and some facts on why the user should be interested in them. 
 
+![Hero Image](readme-assets/tennis-legend-hero-image.png)
+
+![Index Page](readme-assets/tennis-legend-index.png)
+
 ## The Footer
 * The footer section includes links to the relevant social media sites for Tennis Legend. These links are represented by social media icons and open up into new tabs to improve the user experience. 
 * The footer section is valuable to the user as it encourages them to look further into Tennis Legend on all social media sites and stay updated with tennis news, tickets, and competitions.
+
+![Footer Section](readme-assets/tennis-legend-footer.png)
 
 ## Events Page 
 * The Events Page outlines details on each Grand Slam tournament. This includes when each one is, the exact location, top players at each one, and key points about the city that each one is held in. 
