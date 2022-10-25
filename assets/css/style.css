@@ -409,7 +409,7 @@ h5
     border: 2px solid red;
     background-color: #f4fcd2;
     padding: 5px;
-    margin: 10px;
+    margin-left: 5px;
     margin-bottom: 15px;
 }
 
@@ -635,7 +635,7 @@ input[type=text], input[type=email]
 
     .left, .center, .right
     {
-        width: 50%;
+        width: 100%;
     }
 
 }
