@@ -617,11 +617,12 @@ input[type=text], input[type=email]
 
 /* for medium screen sizes from 950px wide and down */
 
-@media-screen and (max-width: 950px)
+@media screen and (max-width: 950px)
 {
     #menu
     {
         clear: left;
+        display: inline-block;
         float: left;
         margin-left: 30px;
         margin-bottom: 20px;
@@ -633,15 +634,17 @@ input[type=text], input[type=email]
         left: 0;
     }
 
-    .left, .center, .right
+    #cards
     {
+        margin: 0 auto;
         width: 100%;
     }
 
-    .left
+    .left, .center, .right
     {
-        margin-left: 10px;
-    }
+        width: 90%;
+        margin-left: 25px;
+    } 
 
 }
 
@@ -654,8 +657,9 @@ input[type=text], input[type=email]
 
     .left, .center, .right
     {
-        width: 95%;
+        width: 93%;
         margin: 5px;
+        margin-left: 10px;
     }
 
     #full-form
