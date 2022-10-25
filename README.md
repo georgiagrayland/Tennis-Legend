@@ -96,7 +96,7 @@ This site was deployed to GitHub pages. The steps to deploy are as follows:
 * From the source section drop-down menu, select the Master Branch. 
 * Once the Master Branch has been selected, the page provided links to the completed website.
 
-The live link can be found here: [insert live link]
+The live link can be found here: https://georgiagrayland.github.io/p1-tennis-legend/
 
 # Credits
 Thank you to my mentor Anthony who guided me through my first project.
