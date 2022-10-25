@@ -503,7 +503,7 @@ h5
 
 .form-section
 {
-    background: url(../images/form-background.jpg);
+    background-image: url('../images/form-background.jpg');
     clear: left;
     width: 100%;
     background-size: cover;
