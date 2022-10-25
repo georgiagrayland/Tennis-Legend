@@ -503,14 +503,15 @@ h5
 
 .form-section
 {
-    clear: left;
     background: url(/assets/images/form-background.jpg);
+    clear: left;
     width: 100%;
     background-size: cover;
     background-position: center;
     height: 800px;
     margin-bottom: 40px
 }
+
 
 #full-form
 {
