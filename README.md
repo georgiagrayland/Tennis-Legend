@@ -92,9 +92,9 @@ What they will find on this website is the essential information on the history,
 # Deployment 
 
 This site was deployed to GitHub pages. The steps to deploy are as follows:
-    * In the GitHub repository, navigate to the Settings tab. 
-    * From the source section drop-down menu, select the Master Branch. 
-    * Once the Master Branch has been selected, the page provided links to the completed website.
+* In the GitHub repository, navigate to the Settings tab. 
+* From the source section drop-down menu, select the Master Branch. 
+* Once the Master Branch has been selected, the page provided links to the completed website.
 
 The live link can be found here: [insert live link]
 
