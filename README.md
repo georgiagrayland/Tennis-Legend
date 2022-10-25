@@ -15,7 +15,7 @@ What they will find on this website is the essential information on the history,
 * Navigation bar featured at the top of the page, showing the name of the website in the left corner: Tennis Legend. This links to the home page. 
 * Other navigation links are to the right: Home, Event Details, Who’s Playing, and Sign Up, which link to different sections of the site. 
 * The Navigation Text is in a sport-style font, in a color that contrasts with the background of the navigation section. 
-* The navigation clearly shows the user the name of the website and makes the different sections of information available easy to find and move between. 
+* The navigation bar clearly shows the user the name of the website and makes the different sections of information available easy to find and move between. 
 
 ![Navigation Bar](readme-assets/tennis-legend-nav.png)
 
