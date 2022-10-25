@@ -4,7 +4,7 @@ The Tennis Legend website is for people interested in Grand Slam tennis tourname
 
 What they will find on this website is the essential information on the history, location, and all-time greats of each event, as well as some of the main attractions in each city. This information is useful for people when they are looking to go on a trip to a large city and want to integrate going to watch a Grand Slam tournament, and who they might see there if they buy or win tickets. 
 
-![Screen displays](xxx)
+![Screen displays](/readme-assets/tennis-legend-screens.png)
 
 ------
 
