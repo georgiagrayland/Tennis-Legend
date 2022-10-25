@@ -69,10 +69,9 @@ What they will find on this website is the essential information on the history,
 # Testing
 
 * I tested that this page works in the different browsers: Chrome, Firefox, and Safari. 
-* The Index, Events, and Sign Up pages are responsive, with the style being similar on varying screen sizes. Shown in the image below. —> (Image) 
-* The Who’s Playing page is responsive, with the layout changing more significantly on different screen sizes due to the layout of the content. See below; —> (image)
+* All pages are responsive, with the style being similar on varying screen sizes. 
 * I confirmed that the navigation bar and header text are all readable and easy to understand. 
-* I have confirmed that the form entries work: the name fields accept text and the email field will only accept an email address, and the submit button works and is clear and easy to understand. 
+* I have confirmed that the form entries work: the name fields accept text and the email field will only accept an email addres as an input, and the submit button works and is clear and easy to understand. 
 
 ## Validator Testing
 
