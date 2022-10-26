@@ -59,7 +59,7 @@ What they will find on this website is the essential information on the history,
 
 ## Sign Up Form
 * The sign up section has a form to collect details from users so that they can enter a draw to win tickets to a Grand Slam. 
-* The form collect the user’s first name, last name, and an email address. It also includes a radio button selector for users to indicate a preference of tournament they would like to win tickets for. 
+* The form collects the user’s first name, last name, and an email address. It also includes a radio button selector for users to indicate a preference of tournament they would like to win tickets for. 
 * The form is valuable to the user as it gives them the ability to enter a competition and also be on the mailing list for Tennis Legend for future contact. 
 
 ![Signup Form](readme-assets/tennis-legend-signup.png)
